@@ -25,5 +25,3 @@ namespace Project_3.Models
         public ICollection<Book> Books { get; set; }
     }
 }
-
-}
